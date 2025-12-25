@@ -1668,7 +1668,7 @@ body {
 }
 
 .gallery__prev {
-  background: url(/img/prev-icon.png) no-repeat center center/contain;
+  background: url(../img/prev-icon.png) no-repeat center center/contain;
   left: 0;
 }
 @media screen and (min-width: 768px) {
@@ -1678,7 +1678,7 @@ body {
 }
 
 .gallery__next {
-  background: url(/img/next-icon.png) no-repeat center center/contain;
+  background: url(../img/next-icon.png) no-repeat center center/contain;
   right: 0;
 }
 @media screen and (min-width: 768px) {
